@@ -1,0 +1,37 @@
+[
+    {
+        "id": "415e6433-af65-4f0d-8e4b-59d24c83279d",
+        "titlu": "To do list",
+        "continut": "1.  De programat la cosmetolog\n2. De facut tema pt acasa la python\n3. De pregatit cina",
+        "status": "finalizat",
+        "data_crearii": "2024-04-03 20:33:38"
+    },
+    {
+        "id": "b9fab14a-d8af-43e4-a4ff-9f4dded7e641",
+        "titlu": "Shopping list",
+        "continut": "- banane\n- ciuperci\n- piine\n- lapte",
+        "status": "în progres",
+        "data_crearii": "2024-04-03 20:34:20"
+    },
+    {
+        "id": "2aef8943-976b-420c-a4fe-87d82022b598",
+        "titlu": "Countries to visit",
+        "continut": "1. Franta\n2. Spania\n3. Italia",
+        "status": "Canceled",
+        "data_crearii": "2024-04-03 20:35:08"
+    },
+    {
+        "id": "276b4740-b887-4e9b-bcb0-efe2f62edf3b",
+        "titlu": "To pay",
+        "continut": "1. Factura pt gaz\n2. Abonamentul la sala\n3. Abonament telefon",
+        "status": "finalizat",
+        "data_crearii": "2024-04-03 20:35:59"
+    },
+    {
+        "id": "e2fec33f-60c3-4fe2-b5c5-c3c3aa77b9ad",
+        "titlu": "Teatru",
+        "continut": "Cumpara bilete la teatru",
+        "status": "Canceled",
+        "data_crearii": "2024-04-03 20:39:09"
+    }
+]
